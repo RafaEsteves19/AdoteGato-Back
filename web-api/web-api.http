@@ -1,0 +1,6 @@
+@web_api_HostAddress = http://localhost:5000
+
+GET {{web_api_HostAddress}}/messages/
+Accept: application/json
+
+###
