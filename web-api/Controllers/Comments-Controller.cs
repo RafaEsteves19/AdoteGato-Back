@@ -6,7 +6,7 @@ using Newtonsoft.Json.Linq;
 [ApiController]
 public class CommentsController : ControllerBase
 {
-    private const string DbFilePath = "db.json";
+    private const string DbFilePath = "comments.json";
 
     public class Comment
     {

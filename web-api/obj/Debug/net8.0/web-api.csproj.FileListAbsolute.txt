@@ -31,4 +31,6 @@ C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\refint\web-api.dll
 C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\web-api.pdb
 C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\web-api.genruntimeconfig.cache
 C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\ref\web-api.dll
-C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\db.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\comments.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\messages.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\web-api.sourcelink.json

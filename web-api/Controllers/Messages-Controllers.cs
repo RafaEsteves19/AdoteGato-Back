@@ -6,7 +6,7 @@ using Newtonsoft.Json.Linq;
 [ApiController]
 public class MessagesController : ControllerBase
 {
-    private const string dbFilePath = "db.json";
+    private const string dbFilePath = "messages.json";
 
     public class Message
     {
