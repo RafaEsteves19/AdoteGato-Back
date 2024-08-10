@@ -1,0 +1,14 @@
+C:\Users\claud\Desktop\Dev\ONG-API\out\web-api.exe
+C:\Users\claud\Desktop\Dev\ONG-API\out\appsettings.Development.json
+C:\Users\claud\Desktop\Dev\ONG-API\out\appsettings.json
+C:\Users\claud\Desktop\Dev\ONG-API\out\comments.json
+C:\Users\claud\Desktop\Dev\ONG-API\out\messages.json
+C:\Users\claud\Desktop\Dev\ONG-API\out\web-api.dll
+C:\Users\claud\Desktop\Dev\ONG-API\out\web-api.deps.json
+C:\Users\claud\Desktop\Dev\ONG-API\out\web-api.runtimeconfig.json
+C:\Users\claud\Desktop\Dev\ONG-API\out\web-api.pdb
+C:\Users\claud\Desktop\Dev\ONG-API\out\Microsoft.OpenApi.dll
+C:\Users\claud\Desktop\Dev\ONG-API\out\Newtonsoft.Json.dll
+C:\Users\claud\Desktop\Dev\ONG-API\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\Desktop\Dev\ONG-API\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\Desktop\Dev\ONG-API\out\Swashbuckle.AspNetCore.SwaggerUI.dll
