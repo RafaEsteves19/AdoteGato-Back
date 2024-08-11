@@ -34,3 +34,10 @@ C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\ref\web-api.dll
 C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\comments.json
 C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\messages.json
 C:\Users\claud\Desktop\Dev\ONG-API\web-api\obj\Debug\net8.0\web-api.sourcelink.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\web.config
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\appsettings.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\comments.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\messages.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\web-api.deps.json
+C:\Users\claud\Desktop\Dev\ONG-API\web-api\bin\Debug\net8.0\out\web-api.runtimeconfig.json
